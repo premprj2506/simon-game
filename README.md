@@ -16,3 +16,7 @@ A simple Simon Says game implemented using HTML, CSS, and JavaScript.
 - `index.html` - The main HTML file that contains the structure of the game.
 - `style.css` - The CSS file that styles the game.
 - `app.js` - The JavaScript file that contains the game logic.
+
+## Play the Game
+
+You can play the game online [here](https://premprj2506.github.io/simon-game/).
